@@ -1,4 +1,4 @@
-<img src="profile_image_url" alt="Morteza's Profile Picture" width="150" height="150" align="right">
+
 
 # Hi there, I'm Morteza! 👋
 
