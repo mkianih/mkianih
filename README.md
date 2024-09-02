@@ -2,7 +2,7 @@
 
 # Hi there, I'm Morteza! 👋
 
-### Data Scientist | Electrical Engineer | Machine Learning Enthusiast
+### MSc Data Scientist | MSc Electrical Engineer | Machine Learning Engineer |  Web Development Enthusiast
 
 ---
 
