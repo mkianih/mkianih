@@ -28,6 +28,10 @@ Welcome to my GitHub profile! I'm a passionate data scientist and electrical eng
 
 Here are a few examples of the work I’ve done. I’m always working on new projects, so stay tuned!
 
+- **[Data Science Projects](project3_link)**  
+  *Description:* A brief overview of what this project is about.  
+  ![Technology Used](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Other Tech](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+  
 - **[Machine Learning Projects](project1_link)**  
   *Description:* A brief overview of what this project is about.  
   ![Technology Used](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Other Tech](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -39,6 +43,7 @@ Here are a few examples of the work I’ve done. I’m always working on new pro
 - **[Computer Vision Projects](project3_link)**  
   *Description:* A brief overview of what this project is about.  
   ![Technology Used](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Other Tech](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
 
 ---
 
