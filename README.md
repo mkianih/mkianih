@@ -56,14 +56,14 @@ I'm deeply interested in:
 - Exploring the intersection of **electrical engineering** and **data science** to create innovative solutions.
 
 ---
-
+<>(
 ### 📈 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mortykh&show_icons=true&hide_border=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mortykh&exclude_repo=YOUR_GITHUB_USERNAME.github.io&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
 </p>
-
+)
 ---
 
 Thanks for visiting! Feel free to explore my repositories and get in touch if you'd like to collaborate on a project or just chat about the latest in data science and engineering. Let's build something amazing together! 🚀
