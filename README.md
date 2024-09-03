@@ -59,7 +59,7 @@ Here are a few examples of the work I’ve done. I’m always working on new pro
 
 I'm deeply interested in:
 
-- Data science projects that push the boundaries of **machine learning** and **computer vision**.
+- Data science projects that push the boundaries of **machine learning** , **computer vision** and **NLP**.
 - **Image processing** and its applications in both academic and industrial settings.
 - Exploring the intersection of **electrical engineering** and **data science** to create innovative solutions.
 
