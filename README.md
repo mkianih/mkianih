@@ -6,7 +6,7 @@
 
 ---
 
-Welcome to my GitHub profile! I'm a passionate data scientist and electrical engineer with expertise in **machine learning**, **deep learning**, and **signal processing**. My journey through data science and engineering has allowed me to work on diverse projects, ranging from **computer vision** to **electric systems**.
+Welcome to my GitHub profile! I'm a passionate data scientist and electrical engineer with expertise in **machine learning**, **Computer Vision**,** LLMs **, and **signal processing**. My journey through data science and engineering has allowed me to work on diverse projects.
 
 ---
 
@@ -37,19 +37,16 @@ Welcome to my GitHub profile! I'm a passionate data scientist and electrical eng
 Here are a few examples of the work I’ve done. I’m always working on new projects, so stay tuned!
 
 - **[Data Science Projects](project3_link)**  
-  *Description:* A brief overview of what this project is about.  
+  
   ![Technology Used](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Other Tech](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
   
 - **[Machine Learning Projects](project1_link)**  
-  *Description:* A brief overview of what this project is about.  
   ![Technology Used](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Other Tech](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 - **[Frontend Developement Projects](project2_link)**  
-  *Description:* A brief overview of what this project is about.  
   ![Technology Used](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white) ![Other Tech](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
 - **[Computer Vision Projects](project3_link)**  
-  *Description:* A brief overview of what this project is about.  
   ![Technology Used](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Other Tech](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 
@@ -59,7 +56,7 @@ Here are a few examples of the work I’ve done. I’m always working on new pro
 
 I'm deeply interested in:
 
-- Data science projects that push the boundaries of **machine learning** , **computer vision** and **NLP**.
+- Data science projects that push the boundaries of **machine learning** , **computer vision** and **LLMs**.
 - **Image processing** and its applications in both academic and industrial settings.
 - Exploring the intersection of **electrical engineering** and **data science** to create innovative solutions.
 
