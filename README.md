@@ -6,7 +6,7 @@
 
 ---
 
-Welcome to my GitHub profile! I'm an MSc data scientist and MSc electrical engineer with expertise in **machine learning**, **Computer Vision**,** LLMs **, and **signal processing**. My journey through data science and engineering has allowed me to work on diverse projects.
+Welcome to my GitHub profile! I'm an MSc data scientist and MSc electrical engineer with expertise in **machine learning**, **Computer Vision**, **LLMs**, and **signal processing**. My journey through data science and engineering has allowed me to work on diverse projects.
 
 ---
 
