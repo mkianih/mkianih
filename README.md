@@ -1,91 +1,107 @@
-# Hi there, I'm Morteza! 👋
+# Hi there, I'm Morteza 👋
 
-### AI Engineer & Data Scientist | MSc Data Science (HSLU) | MSc Electrical Engineering (Politecnico di Milano)
+### AI Engineer & Data Scientist · MSc Data Science · MSc Electrical Engineering
 
-📍 Switzerland · 🌐 [swissdigitalscience.ch](https://www.swissdigitalscience.ch) · 💼 [LinkedIn](https://www.linkedin.com/in/morteza-kiani) · 📄 [arXiv:2509.06885](https://arxiv.org/abs/2509.06885)
-
----
-
-I'm an AI engineer and data scientist who builds **production LLM systems** and **computer vision models** for real-world use.
-
-- 🏛️ Currently a **Software Developer & AI Engineer at Dienststelle Informatik (DIIN), Kanton Luzern**. I run an on-premise LLM server that hosts 40+ models with Ollama, and I build RAG pipelines, conversational document assistants and LLM-powered dashboards.
-- 🔬 I'm a published researcher in **self-supervised medical image segmentation**. *Barlow-Swin* is on arXiv and under review at *Pattern Recognition* (Elsevier).
-- 🧠 My interests: **LLMs & VLMs**, **computer vision & medical imaging**, **RAG**, **agentic AI workflows**, **model fine-tuning** and **multimodal AI**.
-- 🤝 I'm open to roles and collaborations in AI/ML engineering, computer vision, LLM/VLM engineering, research and AI consulting.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morteza-kiani)
+[![Website](https://img.shields.io/badge/-Website-222222?style=flat-square&logo=googlechrome&logoColor=white)](https://www.swissdigitalscience.ch)
+[![Repositories](https://img.shields.io/badge/-Repositories-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mkianih?tab=repositories)
 
 ---
 
-### 🔧 Technologies & Tools
+I'm an AI engineer and data scientist working where **large language models**, **computer vision** and **production software engineering** meet. I have a background in both data science and electrical engineering. My focus is on taking AI from research to reliable, real-world systems, from on-premise LLM infrastructure to deep learning models for medical imaging.
 
-#### AI, ML & LLMs
+---
+
+### 🧠 Areas of Expertise
+
+**🤖 LLMs & Generative AI**
+- Retrieval-Augmented Generation (RAG), embedding models and semantic vector search
+- Deploying and running open-source LLMs locally and on-premise (Llama, Mistral, CodeStral)
+- Agentic AI workflows, multi-stage LLM pipelines and prompt engineering
+- Conversational AI interfaces and LLM-powered document intelligence
+- Vision-language models (VLMs) and multimodal AI
+
+**👁️ Computer Vision & Medical Imaging**
+- 2D/3D image segmentation and object detection (U-Net, YOLO, SAM, Vision Transformers)
+- Self-supervised and representation learning to reduce reliance on labelled data
+- Processing and analysing large-scale microscopy images
+- Peer-reviewed research in medical image segmentation ([arXiv](https://arxiv.org/abs/2509.06885))
+
+**📊 Data Science & Analytics**
+- Machine learning, statistical modelling and predictive analytics
+- ETL pipelines, data integration and process automation
+- Interactive dashboards and KPI reporting for stakeholders
+
+**⚙️ AI Engineering & Software Development**
+- Production ML systems and cloud-based ML pipelines
+- Full-stack development: REST APIs, web frontends and browser automation
+- Enterprise software development in C#/.NET with CI/CD
+
+**🔌 Engineering & Modelling**
+- Signal processing and electrical and electromechanical systems
+- Digital twin and scenario modelling (population, traffic, energy)
+- Functional safety and risk assessment (ISO 26262, IEC 61508, HAZOP, FMEA)
+
+---
+
+### 🔧 Tech Stack
+
+**Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+
+**ML & Deep Learning**
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![Claude API](https://img.shields.io/badge/-Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-#### Data & Visualisation
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+**LLM Tooling**
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Open WebUI](https://img.shields.io/badge/-Open%20WebUI-333333?style=flat-square&logo=openai&logoColor=white)
+![Claude API](https://img.shields.io/badge/-Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+**Cloud & DevOps**
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Data & Visualisation**
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![R Shiny](https://img.shields.io/badge/-R%20Shiny-276DC3?style=flat-square&logo=rstudioide&logoColor=white)
 
-#### Cloud & DevOps
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-#### Web & Software Engineering
-![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**Web & APIs**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-#### Engineering
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
 ---
 
-### 📊 Featured Work
+### 🎓 Education & Certifications
+- **MSc Data Science** · **MSc Electrical Engineering**
+- Deep Learning Specialisation · Machine Learning · TensorFlow Developer · Applied Data Science · Microsoft SC-900
 
-- **🔬 [Barlow-Swin: Self-Supervised Medical Image Segmentation](https://arxiv.org/abs/2509.06885)**
-  This is a real-time segmentation architecture: a Swin-Transformer encoder with a U-Net decoder, pretrained with Barlow Twins. I benchmarked it against U-Net, YOLOv8, SAM+YOLOv8 and HoVerNet on 3D light-sheet microscopy cancer data at IMAI MedTech, Zurich. Its results beat the expert ground-truth masks by 3% and improved diagnostic accuracy by 20%.
-  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure%20ML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-- **🤖 [JobFinder: Agentic Job Monitoring Dashboard](https://github.com/mkianih)**
-  A full-stack platform that scrapes job listings with Playwright and enriches them through a multi-stage LLM pipeline (Brave Search → Claude Haiku → Jina Reader → Claude Haiku). Claude also scores each job's relevance against my CV on a 0–10 scale.
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Claude API](https://img.shields.io/badge/-Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
-
-- **🏛️ Enterprise LLM Infrastructure (Kanton Luzern)**
-  An on-premise LLM stack serving 40+ models (Llama 3, Mistral, CodeStral and embedding models) with no external API dependency. It powers RAG over internal documents, an Open WebUI chat interface, and automated log analysis with LLM-generated fixes.
-  ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-- **🌍 [Digital Twin of Bosnia & Herzegovina (with ETH Zürich)](https://www.swissdigitalscience.ch)**
-  A multi-domain digital twin that links population, traffic and energy models, used to evaluate CO₂-reduction and cost-optimisation scenarios for Sarajevo.
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-
-- **🌐 [Swiss Digital Science](https://www.swissdigitalscience.ch)**
-  A research website where I publish my computational science and medical imaging work.
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
----
-
-### 🎓 Certificates
-Deep Learning Specialisation (deeplearning.ai) · Machine Learning (Stanford) · TensorFlow Developer (Google) · Applied Data Science (University of Michigan) · Microsoft SC-900
-
-### 🗣️ Languages
+### 🌍 Languages
 English (fluent) · German (C1) · Italian (fluent) · Persian (native)
 
 ---
 
-Thanks for visiting! If you'd like to collaborate on LLMs, computer vision or medical AI, or just chat about AI engineering, reach out on [LinkedIn](https://www.linkedin.com/in/morteza-kiani). 🚀
+### 💡 Open To
+Roles and collaborations in **AI/ML engineering**, **LLM & VLM engineering**, **computer vision**, **applied research** and **AI consulting**.
+
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/morteza-kiani). Feel free to explore my [repositories](https://github.com/mkianih?tab=repositories).
